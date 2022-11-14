@@ -1,5 +1,6 @@
-### Hi, I'm Joe!👋
+![Login Page](smoky-mountains.jpg)
 
+### Hi, I'm Joe!👋
 I'm a full-stack software engineer who loves React.js, Tailwind CSS, and all things front-end web development. I love writing, programming, and am a career-long Vim addict.
 
 ### Professional Skills
